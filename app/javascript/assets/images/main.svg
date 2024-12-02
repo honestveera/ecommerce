@@ -1,0 +1,10 @@
+<svg width="75" height="24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="1.5">
+
+ <g>
+  <title>Layer 1</title>
+  <path fill="#B9FFCE" id="svg_1" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" d="m6.81818,22l0.00004,-2.857c-0.29918,-2.9774 -3.81821,-4.5713 -3.81821,-9.1426c-0.00001,-4.57126 2.72737,-8.05666 8.18189,-7.99971c3.9275,0.041 7.6363,2.28563 7.6363,6.85691l2.1818,3.4284c0,2.2857 -2.1818,2.2857 -2.1818,2.2857c0,0 0.5454,5.7141 -4.3637,5.7141l0,1.7142"/>
+  <path id="svg_2" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" d="m11,12c1.1046,0 2,-0.8954 2,-2c0,-1.10457 -0.8954,-2 -2,-2c-0.3643,0 -0.7058,0.09739 -1,0.26756c-0.5978,0.34581 -1,0.99216 -1,1.73244c0,0.7403 0.4022,1.3866 1,1.7324c0.2942,0.1702 0.6357,0.2676 1,0.2676z"/>
+  <path id="svg_3" stroke-dasharray="0.3 2" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" d="m11,13c1.6569,0 3,-1.3431 3,-3c0,-1.65685 -1.3431,-3 -3,-3c-1.65685,0 -3,1.34315 -3,3c0,1.6569 1.34315,3 3,3z"/>
+  <text font-weight="bold" transform="matrix(0.696322 0 0 0.798077 4.03286 6.54323)" stroke="currentColor" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" fill="#083734" id="svg_5" y="14.74096" x="38">LMS</text>
+ </g>
+</svg>
