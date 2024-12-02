@@ -1,4 +1,4 @@
-### LMS
+### Ecommerce
 The corporate library application which will help corporate users order  books in their desks.
 
 ### Modules
