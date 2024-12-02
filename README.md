@@ -12,6 +12,7 @@ The corporate library application which will help corporate users order  books i
 1. Install rvm
 2. Install mysql
 3. Install yarn
+
 #### Steps
 1. rvm use 3.1.3
 2. rvm create gemset lms
@@ -43,11 +44,6 @@ http://127.0.0.1:3000/api/v1/publishers/{id}
 http://127.0.0.1:3000/api/v1/users
 http://127.0.0.1:3000/api/v1/users/{id}
 ```
-
-### How UI, API & Database designed?
-1. [UI](https://github.com/rbalagr/lms/issues/2)
-2. [API](https://github.com/rbalagr/lms/issues/4)
-3. [Database](https://github.com/rbalagr/lms/issues/3)
 
 ### Issues
 1. Please attach issues description and solution here.
